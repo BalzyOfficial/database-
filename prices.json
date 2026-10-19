@@ -21,5 +21,10 @@
       "price": "35.000"
     }
   ],
-  "hargaUp": []
+  "hargaUp": [
+    {
+      "name": "FULL UP KE RESELLER",
+      "price": "5.000"
+    }
+  ]
 }
