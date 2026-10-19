@@ -1,4 +1,9 @@
 {
-  "harga": [],
+  "harga": [
+    {
+      "name": "reseller",
+      "price": "10.000"
+    }
+  ],
   "hargaUp": []
 }
