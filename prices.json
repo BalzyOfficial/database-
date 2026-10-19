@@ -11,6 +11,10 @@
     {
       "name": "OWNER",
       "price": "20.000"
+    },
+    {
+      "name": "Reseller",
+      "price": "15.000"
     }
   ],
   "hargaUp": []
