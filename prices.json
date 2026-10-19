@@ -1,4 +1,9 @@
 {
-  "harga": [],
+  "harga": [
+    {
+      "name": "FULL UP",
+      "price": "30D - 5.000|PERMA - 10.000"
+    }
+  ],
   "hargaUp": []
 }
