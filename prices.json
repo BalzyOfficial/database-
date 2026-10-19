@@ -1,10 +1,6 @@
 {
   "harga": [
     {
-      "name": "PARTNER",
-      "price": "15.000"
-    },
-    {
       "name": "DEVELOPER",
       "price": "35.000"
     }
