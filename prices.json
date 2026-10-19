@@ -7,6 +7,10 @@
     {
       "name": "PARTNER",
       "price": "15.000"
+    },
+    {
+      "name": "OWNER",
+      "price": "20.000"
     }
   ],
   "hargaUp": []
