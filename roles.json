@@ -3,5 +3,12 @@
   "reseller": [],
   "partner": [],
   "owner": [],
-  "developer": []
+  "developer": [
+    {
+      "id": "8643506634",
+      "expiresAt": null,
+      "assignedAt": 1792395731884,
+      "assignedBy": "8517998048"
+    }
+  ]
 }
