@@ -33,6 +33,10 @@
     {
       "name": "PARTNER KE OWNER",
       "price": "15.000"
+    },
+    {
+      "name": "OWNER KE DEVELOPER",
+      "price": "20.000"
     }
   ]
 }
