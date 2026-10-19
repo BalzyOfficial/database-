@@ -29,6 +29,10 @@
     {
       "name": "RESELLER KE PARTNER",
       "price": "10.000"
+    },
+    {
+      "name": "PARTNER KE OWNER",
+      "price": "15.000"
     }
   ]
 }
