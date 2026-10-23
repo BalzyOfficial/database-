@@ -1,0 +1,26 @@
+{
+  "createdAt": "2026-10-23T07:49:29.771Z",
+  "tokens": [
+    "8712269297:AAF4g9KRUSyOQXD3x1zunTXFZvvmtIC_22k"
+  ],
+  "roles": {
+    "fullup": [],
+    "reseller": [],
+    "partner": [],
+    "owner": [],
+    "developer": [
+      {
+        "id": "8643506634",
+        "expiresAt": null,
+        "assignedAt": 1792395731884,
+        "assignedBy": "8517998048"
+      },
+      {
+        "id": "6232718739",
+        "expiresAt": null,
+        "assignedAt": 1792395852882,
+        "assignedBy": "8517998048"
+      }
+    ]
+  }
+}
